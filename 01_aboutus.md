@@ -2,7 +2,6 @@
 layout: page
 title: About Us
 permalink: /aboutus/
-order: 1
 ---
 
 # Need
