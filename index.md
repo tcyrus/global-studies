@@ -3,6 +3,7 @@ layout: page
 carousel:
   - image: /img/slide1.jpg
   - image: /img/slide2.jpg
+  - image: /img/censor2.png
 ---
 
 1. Venture Name
