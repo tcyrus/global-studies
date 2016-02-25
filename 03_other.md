@@ -2,7 +2,6 @@
 layout: page
 title: Other Features
 permalink: /other/
-order: 3
 ---
 
 # Support Us
