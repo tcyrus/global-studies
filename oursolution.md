@@ -2,6 +2,7 @@
 layout: page
 title: Our Solution
 permalink: /oursolution/
+order: 2
 ---
 
 # Solution
