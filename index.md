@@ -2,8 +2,7 @@
 layout: page
 carousel:
   - image: /img/pic1.png
-  - image: /img/pic2.png
-  - image: /img/pic3.jpg
+  - image: /img/pic2.jpg
 ---
 
 1. Venture Name

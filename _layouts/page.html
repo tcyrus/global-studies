@@ -3,14 +3,12 @@ layout: default
 ---
 <article class="post">
   {% if page.carousel %}
-    <div class="flexslider">
-      <ul class="slides">
-        {% for slides in page.carousel %}
-          <li>
-            <img src="{{ slides.image | prepend: site.baseurl }}">
-          </li>
-        {% endfor %}
-      </ul>
+    <div class="bxslider">
+      {% for slides in page.carousel %}
+      <div>
+        <img src="{{ slides.image | prepend: site.baseurl }}">
+      </div>
+      {% endfor %}
     </div>
   {% endif %}
   <header class="post-header">
