@@ -1,10 +1,10 @@
 ---
 layout: page
 title: Our Solution
-permalink: /oursolution/
+permalink: /oursolution
 ---
 
-![New Voices TJHSST](../img/TJHSST.png)
+![New Voices TJHSST](img/TJHSST.png)
 
 # Solution
 
