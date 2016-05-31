@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Our Solution
-permalink: /oursolution
+permalink: /oursolution.html
 ---
 
 ![New Voices TJHSST](img/TJHSST.png)
