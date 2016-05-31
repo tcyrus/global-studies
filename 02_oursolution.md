@@ -14,4 +14,6 @@ Advocate for a law promoting free speech in Virginia schools similar to Maryland
 
 # Action Plan
 
-TBD on further contact with the SPLC.
+* Draft a bill based on similar ones from Maryland and Illinois
+* Garner support for the bill
+
