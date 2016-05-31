@@ -6,12 +6,12 @@ permalink: /oursolution/
 
 # Solution
 
-What will your venture do to address this problem?
+Create an 8th period to work with organizations to combat censorship.
 
 # Goals
 
-Years 1 - 3
+Advocate for a law promoting free speech in Virginia schools similar to Maryland's Senate Bill 764 by cooperating with with the SPLC.
 
 # Action Plan
 
-List key activities and deadlines
+TBD on further contact with the SPLC.
