@@ -3,6 +3,7 @@ layout: page
 title: Our Solution
 permalink: /oursolution/
 ---
+![New Voices TJHSST](img/TJHSST.png)
 
 # Solution
 
