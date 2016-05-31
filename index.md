@@ -6,8 +6,8 @@ carousel:
 ---
 Censorship Global Studies Project
 =================================
-Marcus Alder, Tim Cyrus, Hayden Hollenbeck, Julie Lee, and Wendy Wang
----------------------------------------------------------------------
+### Marcus Alder, Tim Cyrus, Hayden Hollenbeck, Julie Lee, and Wendy Wang
+
 
 <!--1. Venture Name-->
 <!--2. Motto/Tagline & Login-->
