@@ -1,7 +1,7 @@
 ---
 layout: page
 title: More
-permalink: /other/
+permalink: /other.html
 ---
 
 <!--# Support Us-->
