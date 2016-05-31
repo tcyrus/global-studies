@@ -1,6 +1,5 @@
 ---
 layout: page
-title: Censorship Global Project
 carousel:
   - image: /img/pic1.png
   - image: /img/pic2.png
