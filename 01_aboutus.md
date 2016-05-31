@@ -1,7 +1,7 @@
 ---
 layout: page
 title: About Us
-permalink: /aboutus/
+permalink: /aboutus.html
 ---
 
 # Need
