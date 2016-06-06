@@ -6,7 +6,7 @@ carousel:
 ---
 Student Censorship
 ==================
-Marcus Alder, Tim Cyrus, Hayden Hollenbeck, Julie Lee, and Wendy Wang
+Marcus, Tim, Hayden, Julie, and Wendy
 
 
 <!--1. Venture Name-->
