@@ -10,15 +10,15 @@ permalink: /other.html
 
 # Team
 
-Marcus Alder
+Marcus - Website content and graphics
 
-Tim Cyrus
+Tim - Website framework and backend
 
-Hayden Hollenbeck
+Hayden - Project research and management
 
-Julie Lee
+Julie - Organizing meetings
 
-Wendy Wang
+Wendy - Outreach and contacting external organizations
 
 # Partners
 
