@@ -3,6 +3,8 @@ layout: page
 carousel:
   - image: /img/pic1.png
   - image: /img/pic2.png
+  - image: /img/13410838_1208547755863984_433981039_o.jpg
+  - image: /img/Capture.PNG
 ---
 Student Censorship
 ==================
