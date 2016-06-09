@@ -28,6 +28,8 @@ Student Press Law Center
 
 Electronic Frontiers Foundation
 
+Freedom to Read
+
 # More
 
 <!--Blog, Photos, Social Media, etc.-->
