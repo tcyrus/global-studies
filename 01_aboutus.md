@@ -18,3 +18,15 @@ Censorship is a major problem. See our presentation in "More" for details on the
 
 An 8th period will allow high school students to be invovled in combating censorship and work with a global organization.
 <!--How is your approach different or unique?-->
+
+# Team
+
+Marcus - Website graphics and content
+
+Tim - Website framework and backend
+
+Hayden - Project research and management
+
+Julie - Organizing meetings
+
+Wendy - Outreach and contacting external organizations
