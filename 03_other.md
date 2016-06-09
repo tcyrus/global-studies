@@ -8,18 +8,6 @@ permalink: /other.html
 
 <!--Budget, Resources Needed, Requests for Support-->
 
-# Team
-
-Marcus - Website content and graphics
-
-Tim - Website framework and backend
-
-Hayden - Project research and management
-
-Julie - Organizing meetings
-
-Wendy - Outreach and contacting external organizations
-
 # Partners
 
 LearnServe
