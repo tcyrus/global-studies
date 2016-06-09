@@ -14,6 +14,10 @@ Censorship is a major problem. See our presentation in "More" for details on the
 <!--As students, we care about censorship in schools blah blah-->
 <!--Why do you care about this issue?-->
 
+#Action
+
+In May, our team met with Virginia Board of Education member Elizabeth Lodal to discuss education policy and the lawmaking process.
+
 # Innovation
 
 An 8th period will allow high school students to be invovled in combating censorship and work with a global organization.
