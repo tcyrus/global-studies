@@ -30,7 +30,7 @@ Electronic Frontiers Foundation
 
 Freedom to Read
 
-# More
+# More Information
 
 <!--Blog, Photos, Social Media, etc.-->
 Our Censorship Presentation
