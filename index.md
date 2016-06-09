@@ -6,7 +6,7 @@ carousel:
 ---
 Student Censorship
 ==================
-Marcus, Tim, Hayden, Julie, and Wendy
+This is a project by Marcus, Tim, Hayden, Julie, and Wendy focused on the issue of censorship. Our goal is to promote freedom of speech in schools through increasing awareness and petitioning for legislation.
 
 
 <!--1. Venture Name-->
