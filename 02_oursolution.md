@@ -8,7 +8,7 @@ permalink: /oursolution.html
 
 # Solution
 
-Create an 8th period to work with organizations to combat censorship. The club would work with the Student Press Law center to pass a speech protection bill in Virginia, and would work with the Electonic Frontiers Foundation and Freedom to Read organization on other activities.
+We will create an 8th period to work with organizations to combat censorship. The club would work with the Student Press Law center to pass a speech protection bill in Virginia, and would work with the Electonic Frontiers Foundation and Freedom to Read organization on other activities.
 
 # Goals
 
